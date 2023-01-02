@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @RaeesaParker
-- 👀 I’m interested in web development, app development, astronomy, and Taekwondo
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on any projects based on designing and implementing websites
-- 📫 How to reach me - raeesaparker101@gmail.com
+[![Raeesa's GitHub Banner](./assets/GitHubBanner.png)](https://raeesaparker.github.io/portfolio/)
 
-<!---
-RaeesaParker/RaeesaParker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/raeesa-parker/)
