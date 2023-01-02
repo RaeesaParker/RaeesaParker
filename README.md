@@ -16,8 +16,8 @@ Want to know more about me? [Check out my portfolio](https://raeesaparker.github
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=neighbourhood-front&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
-<a href="https://github.com/RaeesaParker/portfolio">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=portfolio&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
+<a href="https://github.com/RaeesaParker/neighbourhood-backend">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=neighbourhood-backend&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
 <a href="https://github.com/RaeesaParker/toDoList">
@@ -28,13 +28,15 @@ Want to know more about me? [Check out my portfolio](https://raeesaparker.github
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=toDoList-API&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
+<a href="https://github.com/RaeesaParker/portfolio">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=portfolio&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
+</a>
+
 <a href="https://github.com/RaeesaParker/dice-game">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=dice-game&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
-<a href="https://github.com/RaeesaParker/wizarding-spell-book">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=wizarding-spell-book&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
-</a>
+
 
 <br> 
 <br> 
