@@ -42,7 +42,7 @@ Want to know more about me? [Check out my portfolio](https://raeesaparker.github
 ## 📈 GitHub Stats
 
 <a href="https://github.com/RaeesaParker">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaeesaParker&hide=html,css&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaeesaParker&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
 <a href="https://github.com/RaeesaParker">
