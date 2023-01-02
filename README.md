@@ -7,8 +7,29 @@ My name is Raeesa Parker, and I'm an aspiring full-stack web developer. I used t
 
 Want to know more about me? [Check out my portfolio](https://raeesaparker.github.io/portfolio/).
 
-# 📌 Pinned Repositories 
+### 📌 Pinned Repositories 
 
 <a href="https://github.com/RaeesaParker/neighbourhood-front">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=neighbourhood-front&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/RaeesaParker/portfolio">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/RaeesaParker/toDoList">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=toDoList&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/RaeesaParker/toDoList-API">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=toDoList-API&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/RaeesaParker/dice-game">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=dice-game&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+<a href="https://github.com/RaeesaParker/wizarding-spell-book">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=wizarding-spell-book&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
