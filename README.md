@@ -7,4 +7,6 @@ My name is Raeesa Parker, and I'm an aspiring full-stack web developer. I used t
 
 Want to know more about me? [Check out my portfolio](https://raeesaparker.github.io/portfolio/).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaeesaParker)](https://github.com/anuraghazra/github-readme-stats)
+[![Raeesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaeesaParker)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
