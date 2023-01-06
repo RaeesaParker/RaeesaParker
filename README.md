@@ -4,6 +4,8 @@ My name is Raeesa Parker. I used to be an astrophysicist, using code to solve pr
 
 Want to know more about me? [Check out my portfolio.](https://raeesaparker.github.io/portfolio/)
 
+I love learning, and try to make sure that I am always exploring new technologies. I am currently trying to learn C#. 
+
 <br> 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/raeesa-parker/)
