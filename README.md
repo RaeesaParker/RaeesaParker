@@ -11,7 +11,7 @@ I love learning, and try to make sure that I am always exploring new technologie
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/raeesa-parker/)
 
 
-<!-- 
+
 <br> 
 
 ## 📌 Pinned Repositories 
@@ -38,13 +38,13 @@ I love learning, and try to make sure that I am always exploring new technologie
 
 <a href="https://github.com/RaeesaParker/dice-game">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=dice-game&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
-</a> -->
+</a> 
 
 
 
 <br> 
 <br> 
-<!-- 
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/RaeesaParker">
@@ -53,7 +53,7 @@ I love learning, and try to make sure that I am always exploring new technologie
 
 <a href="https://github.com/RaeesaParker">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=RaeesaParker&show_icons=true&line_height=27&count_private=true&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" alt="Raeesa's GitHub Stats" />
-</a> -->
+</a>
 
 <br> 
 <br> 
