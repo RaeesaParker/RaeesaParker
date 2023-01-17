@@ -15,27 +15,27 @@ I love learning, and try to make sure that I am always exploring new technologie
 ## 📌 Pinned Repositories 
 
 <a href="https://github.com/RaeesaParker/neighbourhood-front">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=neighbourhood-front&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
+  <img align="center" style="margin:1rem 0.3rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=neighbourhood-front&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
 <a href="https://github.com/RaeesaParker/neighbourhood-backend">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=neighbourhood-backend&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
+  <img align="center" style="margin:1rem 0.3rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=neighbourhood-backend&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
 <a href="https://github.com/RaeesaParker/toDoList">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=toDoList&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
+  <img align="center" style="margin:1rem 0.3rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=toDoList&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
 <a href="https://github.com/RaeesaParker/toDoList-API">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=toDoList-API&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
+  <img align="center" style="margin:1rem 0.3rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=toDoList-API&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
 <a href="https://github.com/RaeesaParker/portfolio">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=portfolio&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
+  <img align="center" style="margin:1rem 0.3rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=portfolio&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
 <a href="https://github.com/RaeesaParker/dice-game">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=dice-game&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
+  <img align="center" style="margin:1rem 0.3rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=dice-game&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a> 
 
 
