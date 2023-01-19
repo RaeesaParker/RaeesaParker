@@ -9,9 +9,9 @@ I love learning, and try to make sure that I am always exploring new technologie
 <br> 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/raeesa-parker/)
-
+<!--
 <br> 
-<!-- 
+ 
 ## 📌 Pinned Repositories 
 
 <a href="https://github.com/RaeesaParker/neighbourhood-front">
@@ -52,10 +52,10 @@ I love learning, and try to make sure that I am always exploring new technologie
 <a href="https://github.com/RaeesaParker">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=RaeesaParker&show_icons=true&line_height=27&count_private=true&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" alt="Raeesa's GitHub Stats" />
 </a>
- -->
+ 
 <br> 
 <br> 
-  
+  -->
   
 ## 💼 Skills
 
