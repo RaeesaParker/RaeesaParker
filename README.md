@@ -9,7 +9,7 @@ I love learning, and try to make sure that I am always exploring new technologie
 <br> 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/raeesa-parker/)
-<!--
+
 <br> 
  
 ## 📌 Pinned Repositories 
@@ -55,7 +55,7 @@ I love learning, and try to make sure that I am always exploring new technologie
  
 <br> 
 <br> 
-  -->
+  
   
 ## 💼 Skills
 
