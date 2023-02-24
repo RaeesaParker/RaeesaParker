@@ -6,7 +6,7 @@ Want to know more about me? [Check out my portfolio.](https://raeesaparker.githu
 
 Want to see the project I am most proud of working on? [Check out the NeighbourWho? App](https://github.com/RaeesaParker/neighbourhood-front/)
 
-I love learning, and try to make sure that I am always exploring new technologies. I am currently learning C# and .NET.
+I love learning, and try to make sure that I am always exploring new technologies. I am currently learning Typescript.
 
 <br> 
 
