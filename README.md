@@ -32,8 +32,8 @@ I love learning, and try to make sure that I am always exploring new technologie
   <img align="center" style="margin:1rem 0.3rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=toDoList-API&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
-<a href="https://github.com/RaeesaParker/portfolio">
-  <img align="center" style="margin:1rem 0.3rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=portfolio&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
+<a href="https://www.raeesaparker.com">
+  <img align="center" style="margin:1rem 0.3rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RaeesaParker&repo=portfolio-2023&title_color=e6e6e6&text_color=EFEFEF&icon_color=FFC947&bg_color=0A1931" />
 </a>
 
 
